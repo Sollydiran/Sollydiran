@@ -5,6 +5,6 @@
 - 📫 How to reach me adediranadesola2001@gmail.com 
 
 <!---
-Sollydiran/Sollydiran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sollydiran/Sollydiran is a software enginer special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
